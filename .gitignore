@@ -4,3 +4,6 @@ tmp/*
 
 coverage/
 coverage/*
+
+log/
+log/*
